@@ -35,7 +35,7 @@ public class GameManager : MonoBehaviour
         cam = Camera.main;
     }
 
-    // For adding another state just add here
+    // For add another state just add here
     public enum GameState
     {
         PREP,MIDGAME,ENDGAME
